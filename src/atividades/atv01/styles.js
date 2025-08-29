@@ -23,8 +23,18 @@ const styles = StyleSheet.create({
         textAlignVertical: 'center',
         borderRadius: 20,
     },
-    texto: {
+    txt: {
         fontSize: RFPercentage(2.2),
+    },
+    txtnsei: {
+        color: '#070',
+        fontSize: RFPercentage(2.1),
+        borderColor: 'yellow',
+    },
+    txtlulinha: {
+        color: 'red',
+        fontSize: RFPercentage(3.5),
+        borderColor: 'yellow',
     },
 });
 
